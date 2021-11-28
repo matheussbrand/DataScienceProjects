@@ -1,4 +1,4 @@
-### DataScienceProjects
+### Data Science Projects
 
 Hello!
 
