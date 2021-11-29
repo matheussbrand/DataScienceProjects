@@ -19,7 +19,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 
 ##### Data Science Apps
 - Simple Stock Price
-- 
+- Bioinformatics DNA Count 
 
 ### Contacts
 
