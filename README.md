@@ -9,8 +9,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 ##### Data Science
 - Numpy
 - Pandas
-- Matlib
-- 
+- Matplotlib
 
 ##### Python
 - Tic-toc-toe
