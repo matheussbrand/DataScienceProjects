@@ -6,13 +6,16 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 
 ### Projects
 
-##### Data Science
+##### Data Analytics
 - Numpy
 - Pandas
 - Matplotlib
 
 ##### Python
 - Tic-toc-toe (Soon)
+
+##### AI
+
 
 ### Contacts
 
