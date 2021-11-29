@@ -15,6 +15,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Tic-toc-toe (Soon)
 
 ##### AI
+- Projects Soon
 
 
 ### Contacts
