@@ -20,8 +20,8 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 ##### Data Science Apps
 - Stock Price
 - Bioinformatics DNA Count 
-- Eda Basketball Data
-- Eda Football Data
+- Basketball
+- Football
 - 
 
 ### Contacts
