@@ -22,7 +22,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Bioinformatics DNA Count 
 - Basketball
 - Football
-- 
+- S&P500
 
 ### Contacts
 
