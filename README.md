@@ -22,7 +22,8 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Bioinformatics DNA Count 
 - Basketball
 - Football
-- S&P500
+- S&P500(SP500)
+- Iris Detector
 
 ### Contacts
 
