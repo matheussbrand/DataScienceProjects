@@ -12,7 +12,8 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Matplotlib
 
 ##### Python (beginner to advanced)
-- Tic-toc-toe (Soon)
+- Hangman (Game)
+- Jockenpo (Game)
 
 ##### Python Apps
 - Stock Price
