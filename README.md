@@ -11,19 +11,18 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Pandas
 - Matplotlib
 
-##### Python
+##### Python (beginner to advanced)
 - Tic-toc-toe (Soon)
 
-##### AI
-- Projects Soon
-
-##### Data Science Apps
+##### Python Apps
 - Stock Price
 - Bioinformatics DNA Count 
 - Basketball
 - Football
 - S&P500(SP500)
 - Iris Detector
+
+
 
 ### Contacts
 
