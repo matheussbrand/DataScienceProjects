@@ -16,6 +16,8 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Jockenpo (Game)
 - Dice Roller
 - Message Encode/Decode
+- Alarm Clock
+
 ##### Python Apps
 - Stock Price
 - Bioinformatics DNA Count 
