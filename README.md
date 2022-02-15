@@ -21,6 +21,8 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Alarm Clock
 - Translator
 - Text to Speech
+- Youtube Downloader
+- Binary Search
 
 ##### Python Apps
 - Stock Price
