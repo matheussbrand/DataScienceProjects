@@ -20,8 +20,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Message Encode/Decode
 - Alarm Clock
 - Translator
-- Texto to Speech
-- 
+- Text to Speech
 
 ##### Python Apps
 - Stock Price
