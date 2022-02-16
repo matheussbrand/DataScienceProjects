@@ -2,7 +2,7 @@
 
 
 In 2014 I graduated as a logistics technician from Senai which helped start my career at Latam Airlines, in the logistics and administrative sector until 2016, 2017 I worked as a stockist at TT Burger Alimentos and started a Psychology degree in the same period, which proposed me new challenges and opened up my vision for food logistics. As soon as the contract ended, in 2019 I was able to go to the Netherlands, visit for a month, practicing English, and learn a little Dutch.
-I'm currently studying data science degree at Wyden, and I'm an intern at Dash Smart Decision as a Data Analytic and on Marte Engenharia as a IT Support, in the future I intend to focus and deepen more in the area of artificial intelligence and BI.
+I'm currently studying data science degree at Wyden, and I'm an intern at Dash Smart Decision as a Data Analytic and on Marte Engenharia as a IT Support intern, in the future I intend to focus and deepen more in the area of artificial intelligence and BI.
 
 ### Markdown
 
