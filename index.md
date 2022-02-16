@@ -7,7 +7,12 @@ I'm currently studying data science degree at Wyden, and I'm an intern at Dash S
 ### Academic Formation
 
 **Wyden Unfavip Educacional** - _Data Science_
-'Computational Mathematics | Data Modeling | Introduction to Programming | Career Planning and Professional Success | Fundamentals of Statistics  Data analysis | Technological Innovation | Programming 1 | Database Implementation | Fundamentals of Information Systems | Database Systems Architecture | Distributed Systems Architecture | Data Structure | Probability and Statistics | Rad Programming'
+
+`Computational Mathematics | Data Modeling | Introduction to Programming | Career Planning and Professional Success | Fundamentals of Statistics  Data analysis | Technological Innovation | Programming 1 | Database Implementation | Fundamentals of Information Systems | Database Systems Architecture | Distributed Systems Architecture | Data Structure | Probability and Statistics | Rad Programming`
+
+**SENAI** - _Management and Supply Chain Logistic_
+
+`Lectures on production and logistics areas | Training | Teamwork | Project development | Resource management | Supply chain | Vocational guidance | Kaban Just in Time | Logistical Processes`
 
 
 
