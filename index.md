@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Matheus Silva Brandão
 
-You can use the [editor on GitHub](https://github.com/matheussbrand/DataScienceProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In 2014 I graduated as a logistics technician from Senai which helped start my career at Latam Airlines, in the logistics and administrative sector until 2016, 2017 I worked as a stockist at TT Burger Alimentos and started a Psychology degree in the same period, which proposed me new challenges and opened up my vision for food logistics. As soon as the contract ended, in 2019 I was able to go to the Netherlands, visit for a month, practicing English, and learn a little Dutch.
+I'm currently studying data science degree at Wyden, and I'm an intern at Dash Smart Decision as a Data Analytic, in the future I intend to focus and deepen more in the area of artificial intelligence and BI.
 
 ### Markdown
 
