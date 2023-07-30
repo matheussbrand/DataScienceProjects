@@ -12,6 +12,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Numpy
 - Pandas
 - Matplotlib
+- Acidentes em SP
 
 ##### Python (beginner to advanced)
 - Hangman (Game)
@@ -36,7 +37,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 
 ### Contacts
 
-E-mail: matheussbrand@gmail.com
+E-mail: matheussilbrand@gmail.com
 
 Linkedin: https://www.linkedin.com/in/matheussbrandao/
 
