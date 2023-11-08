@@ -13,6 +13,8 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Pandas
 - Matplotlib
 - Acidentes em SP (taxa_ac_SP)
+- Exploratory Data Analysis (EDA)
+- Students Performance
 
 ##### Python (beginner to advanced)
 - Hangman (Game)
