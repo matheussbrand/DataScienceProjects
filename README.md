@@ -35,12 +35,10 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - S&P500(SP500)
 - Iris Detector
 
-
+##### BI 
+- DB_JohnDoeCompany
 
 ### Contacts
-
 E-mail: matheussilbrand@gmail.com
-
 Linkedin: https://www.linkedin.com/in/matheussbrandao/
 
-Kaggle: https://www.kaggle.com/matheussilvabrando/
