@@ -26,6 +26,7 @@ My name is Matheus and I'm starting to walk into the world of data science, what
 - Text to Speech
 - Youtube Downloader
 - Binary Search
+- Snake Game IA
 
 ##### Python Apps
 - Stock Price
